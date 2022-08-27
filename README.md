@@ -11,3 +11,7 @@ In this repository, the main results of each kaggle competence are presented
 
 1. [House prices cleaning and EDA](https://www.kaggle.com/code/kevinmorgado/house-prices-cleaning-and-eda)
 2. [Price prediction through linear regression and xgboost](https://www.kaggle.com/code/kevinmorgado/price-prediction-through-linear-reg-and-xgboost)
+
+## 3. Tabular Playground Series - Failure prediction
+
+1. [Three Models - failure prediction](https://www.kaggle.com/code/kevinmorgado/three-models-failure-prediction)
