@@ -15,3 +15,11 @@ In this repository, the main results of each kaggle competence are presented
 ## 3. Tabular Playground Series - Failure prediction
 
 1. [Three Models - failure prediction](https://www.kaggle.com/code/kevinmorgado/three-models-failure-prediction)
+
+## 4. Tabular Playground Series - Book Sales
+
+1. [Feature engineering - book sales](https://www.kaggle.com/code/kevinmorgado/feature-engineering-book-sales)
+
+## 5. Digit Recognizer
+
+1. [CNN MNIST prediction 99%](https://www.kaggle.com/code/kevinmorgado/cnn-mnist-prediction-99)
